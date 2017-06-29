@@ -13,6 +13,7 @@ data/dataset_1/cnn_data/balanced/train/processed/label_0
 data/dataset_1/cnn_data/balanced/train/processed/label_1
 
 or for the entire 'unbalanced' dataset (i.e. the number of benign examples is not equal to the number of malignant examples) use:
+
 data/dataset_1/cnn_data/unbalanced/test/processed/label_0
 data/dataset_1/cnn_data/unbalanced/test/processed/label_1
 data/dataset_1/cnn_data/unbalanced/train/processed/label_0
