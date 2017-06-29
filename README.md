@@ -6,6 +6,7 @@ cleanData.py is a preprocessing program that uses OpenCV to perform lesion segme
 vgg16.py is based off of a previous implementation (https://blog.keras.io/building-powerful-image-classification-models-using-very-little-data.html) which fine-tunes a pretrained vgg-16 network on a user-specific dataset through the Keras deep learning API. The input images to the learning model are the pre-processed images from the output of cleanData.py
 
 To run cleanData.py format data according to the following:
+
 data/dataset_1/cnn_data/balanced/test/processed/label_0
 data/dataset_1/cnn_data/balanced/test/processed/label_1
 data/dataset_1/cnn_data/balanced/train/processed/label_0
